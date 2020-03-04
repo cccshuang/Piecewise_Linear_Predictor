@@ -1,7 +1,7 @@
 # Piecewise Linear Branch Predictor
 This implementation of Piecewise Linear Branch Predictor on Sniper Simulator is done as a part of the course CS5222: Advanced Computer Architecture.
 
-The branch predictor showed prediction accuracies ranging from 88.6% to 96.12% for high MPKI SPEC2006 benchmarks. There are different tunable parameters of this predictor such as the hash values and the history length. The effect of these on the benchmarks has been shoed in the report.
+The branch predictor showed prediction accuracies ranging from 88.6% to 96.12% for high MPKI SPEC2006 benchmarks. There are different tunable parameters of this predictor such as the hash values and the history length. The effect of these on the benchmarks has been shown in the report.
 
 An additional config file (or editing an existing one) is required to run the predictor.
 
